@@ -10,3 +10,11 @@ It is simple, you need to replace 'your' with whatever name you want. replace th
 You can customize this code to evaluate other performance metrics, such as precision, recall, or F1 score, depending on the specific problem you are trying to solve.    
 
 You can also save the model and its weights to disk using the save() method of the model object, so that you can reuse it later and/or load an already saved model as provided in the template
+
+
+
+dataPreprocessingUsingKeras:- preprocessess data then trains the model.
+dataProcessingUsingKerasTrainedModel1:- we import the trained model, feed it with test data and check if the results are valid
+
+the dataset used in this process was downloaded from the internet. I have forgotten where and will therefore load it on a google account and share the link here too
+link:- https://drive.google.com/file/d/1vUyT3uSL8U960rfpfsuikfRrhuzMvmpm/view?usp=sharing
